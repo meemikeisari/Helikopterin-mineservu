@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Tervetuloa Helikopterin mineservulle!
 
-You can use the [editor on GitHub](https://github.com/meemikeisari/Helikopterin-mineservu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Pelaamista varten sinun tarvitsee liittyä Discord palvelimelleni https://discord.gg/TnsQqyQxhw. Liityttyäsi Discord palvelulle lue ohjeet ja tee threadi whitelist kanavalle. Kerro pyynnössäsi hiukan itsestäsi, en välttämättä tule whitelistaamaan ihmisiä, joita minä tai muu jäsen ei tunne.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Palvelimesta
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Palvelin sijaitsee Hollannissa, joten pingin pitäisi olla riittävän hyvä. Palvelimen spekseistä lisää tietoa discordissa.
 
-```markdown
-Syntax highlighted code block
+Vaikka palvelimella on modeja, et tarvitse niitä ladattuna clientillesi. Voit siis liittyä täysin modaamattomalla clientillä.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Palvelimella on tällä hetkellä käytössä seuraavat modit:
+```
+vanish
+InvView
+anti-xray
+krypton
+carpet
+lazydfu
+banhammer
+lithium
+recipecache
+starlight
+textile-backup
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Jos jostain modista on kysyttävää, kysy discordissa. Voit halutessasi myös ehdottaa uusia modeja.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/meemikeisari/Helikopterin-mineservu/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Hauskaa pelaamista!
